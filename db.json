@@ -1,11 +1,12 @@
 {
-  "2020-10-23T00:15:17.914Z": {
+  "Date": "2020-10-23T00:15:17.914Z",
+  "Apps": {
     "Internet and Productivty": 5,
     "Office Applications": 3,
     "Development": 4,
     "OS": 0.7
   },
-  "User Activity": {
+  "UserActivity": {
     "Longest Duration": {
       "Total Hours": 2,
       "Start": "9:32am",
